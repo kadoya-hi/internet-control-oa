@@ -30,7 +30,7 @@ header-includes:
 \begin{center}
 {\Large \textit{A paper presented at the 2026 MPSA Annual Conference}}
 \end{center}
-hhhhhhhhhhhhhhh
+
 # Contents
 A1 Descriptive Statistics
 
