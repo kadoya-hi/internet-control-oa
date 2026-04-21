@@ -38,12 +38,27 @@ A2 The Results of Ordered Logistic Regression
 
 A3 The Results of Logistic Regression
 
-A4 The Results of OLS with Spline Terms for the Internet Control Variables
+A4 Conditional Marginal Effects across Levels of Internet Control in the Spline Interaction Models (Models 3 and 4)
+
+\newpage
 
 # A1 Descriptive Statistics
 
+![]("figtab/a1_descstat.pdf")
+
+\newpage
+
 # A2 The Results of Ordered Logistic Regression
+
+\newpage
 
 # A3 The Results of Logistic Regression
 
-# A4 The Results of OLS with Spline Terms for the Internet Control Variables
+![]("figtab/a3_logit_table.pdf")
+
+\newpage
+
+# A4 Conditional Marginal Effects across Levels of Internet Control in the Spline Interaction Models (Models 3 and 4)
+
+![]("figtab/a4_me_combined_spline.png")
+Note: The figure shows the conditional marginal effects across levels of internet control for the spline specifications of Models 3 and 4
